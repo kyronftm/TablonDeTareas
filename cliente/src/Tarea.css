@@ -1,0 +1,24 @@
+.botones > .btn-primary {
+    margin-right: 10px !important;
+}
+
+.titule {
+    color: white;
+    padding: 30px;
+    background: rgb(30, 30, 30);
+}
+
+.bg-image {
+    background-image: url("fondo_tareas.jpeg");
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+}
+
+.card-title {
+    color: white;
+}
+
+.card-text {
+    color: white;
+}

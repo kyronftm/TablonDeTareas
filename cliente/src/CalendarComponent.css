@@ -1,0 +1,12 @@
+.calendar-container {
+    text-align: center;
+}
+
+.centered-calendar {
+    display: inline-block;
+}
+
+.custom-calendar {
+    width: 100%;
+    max-width: 1800px;
+}

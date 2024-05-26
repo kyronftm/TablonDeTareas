@@ -3,22 +3,25 @@
 }
 
 .titule {
-    color: white;
+    color: rgb(126, 93, 2);
     padding: 30px;
-    background: rgb(30, 30, 30);
+    background-image: url("madera.jpeg");
+    background-color: transparent;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .bg-image {
-    background-image: url("fondo_tareas.jpeg");
+    background-image: url("nota.png");
     background-size: cover;
-    background-position: center;
     border-radius: 5px;
 }
 
 .card-title {
-    color: white;
+    color: rgb(20, 20, 20);
 }
 
 .card-text {
-    color: white;
+    color: rgb(20, 20, 20);
 }

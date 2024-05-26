@@ -37,7 +37,7 @@ function Tarea() {
                     {tareas.map(tarea => (
                         <div key={tarea.id} className="card m-2" style={{ width: "18rem" }}>
                             <div className="card-body d-flex flex-column align-items-center bg-image">
-                                <p className="card-title"><strong>Materia: </strong>{tarea.Materia}</p>
+                                <p className="card-title mt-4"><strong>Materia: </strong>{tarea.Materia}</p>
                                 <p className="card-title"><strong>Título: </strong>{tarea.Titulo}</p>
                                 <p className="card-text"><strong>Fecha Inicial: </strong>{tarea.FechaInicial}</p>
                                 <p className="card-text"><strong>Fecha Entrega: </strong>{tarea.FechaEntrega}</p>
